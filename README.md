@@ -1,4 +1,4 @@
-# 3D_Browser_experiment_javascript_leapMotion
+# javascript_leapMotion___3D_Browser_experiment
 On July 2015, I (Sebastien Binet) have coded this experiment to test my concept of 3D browser with Leap Motion.
 
 However I stopped coding because javascript is not the best language for this experiment.
